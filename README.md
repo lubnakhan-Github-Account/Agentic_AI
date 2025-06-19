@@ -1,6 +1,12 @@
-#### 1st Folder consist of multi-agents code with ***chainlit*** integration.
+## Use **Tools**
+_________________________
+#### 1st Folder contain 
+## *File Search Tool*
+>> 1. ##  *Function as tool*
+>> 2. ##  *Agent as tool*
 ____________________________________________________________________________    
-#### 2nd Folder contain 
-## *File Search*
->> 1. ## Function as tool
->> 2. ## Agent as tool
+## use **Handoffs**
+#### 2nd Folder consist of multi-agents code with ***chainlit*** integration.
+
+
+
